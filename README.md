@@ -1,4 +1,4 @@
-# Hw1
+# Lesson1
 + Hello, world!
 + Variables
 + Data types
